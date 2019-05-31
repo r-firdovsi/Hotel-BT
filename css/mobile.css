@@ -1,0 +1,82 @@
+/* Navbar */
+
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#hamburger-manu {
+  display: inline;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+#nav-list {
+  display: none;
+}
+
+#navbar ul, #navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 5px;
+  border-bottom: #444 dotted 1px;
+}
+
+/* Showcase */
+
+#showcase {
+  height: 100%;
+}
+
+#showcase .showcase-content {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+/* Home Info  */
+
+#home-info {
+  height: 550px;
+}
+
+#home-info .info-img {
+  display: none;
+}
+
+#home-info .info-content {
+  float: none;
+  width: 100%;
+}
+
+/* Boxe */
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+/* About Info */
+
+#about-info .info-right,
+#about-info .info-left {
+  float: none;
+  width: 100%;
+}
+
+.l-heading {
+  text-align: center;
+}
+
+#about-info .info-right img {
+  clip-path: none;
+  border: 5px solid #fff;
+}
+
+/* Contact */
+
+#contact-info .box {
+  border-bottom: 3px dotted #444;
+}
